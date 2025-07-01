@@ -14,7 +14,6 @@ Welcome to my machine learning portfolio! Here, I showcase summaries of my proje
 
 | Project Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| [3D Print Insight](https://github.com/michael-whiteman/3d-print-insight/tree/main) | July 2025 | Python | This project delivers an end-to-end predictive framework for fused deposition modeling (FDM) 3D-printed part roughness, tension strength, and elongation using a hill climbing ensemble. By tuning convex weights on out-of-fold predictions from linear regression, random forest, and XGBoost models, the ensemble outperforms any single model. This demonstrates a practical approach for blending diverse learners to minimize error. |
 | In development | Ongoing | Sample tool(s) | Sample project description. |
 
 ***
@@ -23,7 +22,7 @@ Welcome to my machine learning portfolio! Here, I showcase summaries of my proje
 
 | Project Link | Completion Date | Tools | Project Description | Task Type |
 |---|---|---|---|---|
-| In development | Ongoing | Sample tool(s) | Sample project description. | Sample task type. |
+| [3D Print Insight](https://github.com/michael-whiteman/3d-print-insight/tree/main) | July 2025 | Python | This project delivers an end-to-end predictive framework for fused deposition modeling (FDM) 3D-printed part roughness, tension strength, and elongation using a hill climbing ensemble. By tuning convex weights on out-of-fold predictions, the ensemble outperforms any single model. This demonstrates a practical approach for blending diverse learners to minimize error. | Regression |
 
 Task types: regression, classification, and clustering & dimensionality reduction.
 
